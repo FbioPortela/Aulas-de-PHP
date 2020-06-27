@@ -1,0 +1,4 @@
+Ao transferir algum repositorio(projeto) no github, baixar o versionizador 
+o Git, dps ao fazer transferencia fazer passo a passo do github(terminal parecido 
+com linux), passo a passo print n captura de tela neste mesmo
+repositorio. - Recomendado fazer o primeiro tutorial, do terminal.
